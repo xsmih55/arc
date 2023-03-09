@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
