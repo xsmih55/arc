@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add PaddlePaddle Docs Integrations Page (#8858)
