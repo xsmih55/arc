@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Use pathlib in DOTA ops (#7552)
