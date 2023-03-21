@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
