@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add PR Summary step to Ultralytics Actions (#7675)
