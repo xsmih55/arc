@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Add missing single-line docstrings (#8362)
