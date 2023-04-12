@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
