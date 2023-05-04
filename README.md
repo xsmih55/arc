@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Update OpenVINO INT8 export (#7515)
