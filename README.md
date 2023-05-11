@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
