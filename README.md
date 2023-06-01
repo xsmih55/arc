@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
