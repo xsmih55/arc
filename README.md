@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
