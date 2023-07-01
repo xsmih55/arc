@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
