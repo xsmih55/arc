@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+fix predict with class filter
