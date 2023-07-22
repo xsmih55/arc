@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix cmake requirements for ARM64 (#8589)
