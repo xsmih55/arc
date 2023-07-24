@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
