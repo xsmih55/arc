@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
