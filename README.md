@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
