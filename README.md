@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Fix IS_PYTHON_3_12 bug (#9258)
