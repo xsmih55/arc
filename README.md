@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Expand Model method type hinting (#8279)
