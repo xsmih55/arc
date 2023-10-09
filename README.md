@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
