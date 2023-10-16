@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
