@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
