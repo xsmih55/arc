@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
