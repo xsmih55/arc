@@ -1,1 +1,1 @@
-fix resume training
+Fixed RTDETR GFLOPs bug (#7309)
