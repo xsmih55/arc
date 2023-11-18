@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
