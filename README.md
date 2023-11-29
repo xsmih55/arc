@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
