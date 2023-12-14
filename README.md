@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Update HTTP to HTTPS (#7548)
