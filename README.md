@@ -1,1 +1,1 @@
-added badges (#45)
+Fix OpenVINO links (#7930)
