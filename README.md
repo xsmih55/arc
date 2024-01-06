@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
