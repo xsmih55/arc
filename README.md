@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
