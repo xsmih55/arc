@@ -1,1 +1,1 @@
-ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
