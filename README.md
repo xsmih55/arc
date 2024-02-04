@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add dota8.yaml and O tests (#7394)
