@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
