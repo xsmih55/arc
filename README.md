@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
