@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Fix docs H1 tags (#7182)
