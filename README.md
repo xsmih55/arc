@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
