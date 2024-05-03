@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
