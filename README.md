@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
