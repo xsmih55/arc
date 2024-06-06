@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Fix Yolo 8.0.206 scale bug (#7821)
