@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
