@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
