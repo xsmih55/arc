@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
