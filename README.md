@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Batch inference fixes (#8854)
