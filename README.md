@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
