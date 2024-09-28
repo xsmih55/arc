@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Elaborate Train and Predict mode docs arguments (#8137)
